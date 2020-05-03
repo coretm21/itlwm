@@ -1990,8 +1990,8 @@ iwm_endscan(struct iwm_softc *sc)
 {
     int error;
     
-        static const char *ssid_name = "Redmi";
-        static const char *ssid_pwd = "zxyssdt112233";
+        static const char *ssid_name = "CorentinPC";
+        static const char *ssid_pwd = "1234567890";
 //            static const char *ssid_name = "CMCC-KtG6";
 //            static const char *ssid_pwd = "9utc5c5f";
 //    static const char *ssid_name = "ssdt";
